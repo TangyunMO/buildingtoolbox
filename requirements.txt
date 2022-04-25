@@ -12,7 +12,6 @@ pytest
 yapf
 
 # API
-urllib
 requests
 
 # utilities
