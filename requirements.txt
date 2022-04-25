@@ -12,7 +12,6 @@ pytest
 yapf
 
 # API
-sys
 urllib.parse
 requests
 
