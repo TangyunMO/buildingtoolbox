@@ -12,7 +12,7 @@ pytest
 yapf
 
 # API
-urllib.parse
+urllib
 requests
 
 # utilities
